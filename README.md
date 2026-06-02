@@ -1,6 +1,6 @@
-# ⚖️ LawGPT Pakistan Pro
+# ⚖️ Smart Client Intake and Legal Issue Identifier
 
-LawGPT Pakistan Pro is an AI-powered Urdu legal assistant designed specifically for Pakistani law. It provides structured, context-aware legal guidance using Retrieval-Augmented Generation (RAG) with a FAISS vector database and HuggingFace LLM.
+Smart Client Intake and Legal Issue Identifier is an AI-powered Urdu legal assistant designed specifically for Pakistani law. It provides structured, context-aware legal guidance using Retrieval-Augmented Generation (RAG) with a FAISS vector database and HuggingFace LLM.
 
 Built with Streamlit, it offers a professional chat interface, session management, and persistent chat history using SQLite.
 
