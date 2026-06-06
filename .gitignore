@@ -158,7 +158,6 @@ cython_debug/
 # Local databases and custom app caches
 chats.db
 chats.db-journal
-knowledge_base/
 cleaned_no_toc.pdf
 
 chat.db
